@@ -161,6 +161,7 @@
       { emoji: "🎨", text: "Ta créativité est une arme secrète que tu sous-estimes sûrement." },
       { emoji: "💪", text: "Tu tiens bon là où d'autres auraient déjà abandonné." },
       { emoji: "😎", text: "Tu rentreras dans la pièce et l'ambiance change. C'est un don." },
+      { emoji: "WASSUP", text: "ça va beau gosse ?" },
     ];
 
     let count = 0;
